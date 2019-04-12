@@ -74,6 +74,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     TextView tvInfo;
 
+//    logical matrix
     int[][] boardStatus = new int[3][3];
 
 
