@@ -65,6 +65,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     int TURN_COUNT = 0;
 
+//    buttons
     private Button b00,b01,b02;
     private Button b10,b11,b12;
     private Button b20,b21,b22;
